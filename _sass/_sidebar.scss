@@ -16,6 +16,12 @@
   @include breakpoint($large) {
     @include span(2 of 12);
     opacity: 1;
+    position: fixed;
+    top: 4.25rem;
+    left: 1em;
+    width: 140px;
+    -webkit-transform: none;
+            transform: none;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
 
@@ -24,9 +30,9 @@
     }
   }
 
-
-  @include breakpoint($x-large) {
-    padding-right: 0;
+  @include breakpoint($content-width) {
+    left: calc((100vw - #{$content-width}) / 2 + 1em);
+    width: 165px;
   }
 
   h2, h3, h4, h5, h6 {
@@ -58,10 +64,6 @@
     width: $right-sidebar-width-narrow;
     margin-left: span(0.5 of 12);
     z-index: 10;
-  }
-
-  @include breakpoint($x-large) {
-    width: $right-sidebar-width;
   }
 }
 
