@@ -22,7 +22,7 @@ I am Yukun Zheng, an incoming Master student at The University of Hong Kong. My 
 My research outputs have accumulated a total of <a href='https://scholar.google.com/citations?user=ITDjbrAAAAAJ'><strong><span id='total_cit'>several</span></strong></a> Google Scholar citations.
 
 # 🔥 News
-- *2026.07*: &nbsp;📄 Our paper "[**BO-Optimized CNN-LSTM for Switch Fault Diagnosis of Multiphase Drives and its Physical Interpretation**](https://www.iecon2026.org/)" has been submitted to **IECON 2026** (*Under Review*).
+- *2026.07*: &nbsp;📄 Our paper "**BO-Optimized CNN-LSTM for Switch Fault Diagnosis of Multiphase Drives and its Physical Interpretation**" has been submitted to [**IECON 2026**](https://www.iecon2026.org/) (*Under Review*).
   - **Resource-Aware Framework**: Proposed a Bayesian Optimization (BO) framework for embedded multiphase motor fault diagnosis, balancing validation accuracy, computational FLOPs, and parameter size for lightweight open-switch fault identification.
   - **Physics-Guided Explainability**: Conducted a post-hoc interpretation of the neural network by analyzing ReLU activations and input-channel contributions, demonstrating that the learned features correspond to physically meaningful *x-y* subspace current distortions and motor harmonic fault signatures.
 
