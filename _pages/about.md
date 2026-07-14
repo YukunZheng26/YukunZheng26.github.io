@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yukun Zheng, a Master's student at The University of Hong Kong. My research interests include smart grid, power system stability, artificial intelligence, and power electronics. 
+I am Yukun Zheng, an incoming Master student at The University of Hong Kong. My research interests include smart grid, power system stability, artificial intelligence, and power electronics. 
 
 My research outputs have accumulated a total of <a href='https://scholar.google.com/citations?user=ITDjbrAAAAAJ'><strong><span id='total_cit'>several</span></strong></a> Google Scholar citations.
 
@@ -29,7 +29,7 @@ My research outputs have accumulated a total of <a href='https://scholar.google.
 [Evaluation of Neural Network-Based Parameter Mismatch Detection and Correction for Grid Inverters with Virtual Vector Model Predictive Control](https://doi.org/10.1007/978-981-97-8730-2_31)
 
 T. Wang, Y. Zhao, Y. Huang, M. Wu, **Y. Zheng**, AHP Tan, CS Lim
-*International Conference on Smart Electrical Grid and Renewable Energy (SGER)*, 2024.
+*International Conference on Smart Electrical Grid and Renewable Energy (SEGRE)*, 2024.
 
 </div></div>
 
@@ -45,5 +45,5 @@ T. Wang, Y. Zhao, Y. Huang, M. Wu, **Y. Zheng**, AHP Tan, CS Lim
 - *2022.09 - 2026.06*, **University of Liverpool**, Bachelor of Engineering in Electrical and Electronic Engineering (BEng in EEE)
 
 # 🎖 Honors and Awards
-- *2025* Outstanding Graduate of Xi'an Jiaotong-Liverpool University (XJTLU)
+- *2026* Outstanding Graduate of Xi'an Jiaotong-Liverpool University (XJTLU)
 - *2023 - 2025* Academic Achievement Scholarship (Three Consecutive Years)
