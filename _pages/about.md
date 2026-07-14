@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Yukun Zheng (郑宇坤)"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -11,48 +11,39 @@ redirect_from:
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% assign gsDataBaseUrl = "https://github.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am Yukun Zheng, a Master's student at The University of Hong Kong. My research interests include smart grid, power system stability, artificial intelligence, and power electronics. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+My research outputs have accumulated a total of <a href='https://scholar.google.com/citations?user=ITDjbrAAAAAJ'><strong><span id='total_cit'>several</span></strong></a> Google Scholar citations.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SGER 2024</div><img src="images/evaluation_inverter.png" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Evaluation of Neural Network-Based Parameter Mismatch Detection and Correction for Grid Inverters with Virtual Vector Model Predictive Control](https://doi.org/10.1007/978-981-97-8730-2_31)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+T. Wang, Y. Zhao, Y. Huang, M. Wu, **Y. Zheng**, AHP Tan, CS Lim
+*International Conference on Smart Electrical Grid and Renewable Energy (SGER)*, 2024.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+</div></div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">PMF 2023</code> <a href="https://doi.org/10.1007/978-981-97-0331-9_38">Charging and Discharging Model of Electric Vehicle Virtual Power Plant Considering Dynamic Electricity Price in New Power System</a>, L Mingyang, <strong>Z Yukun</strong>, W Yanqian, Y Yao, D Yang. <em>Proceedings of the 8th Purple Mountain Forum on Smart Grid Protection and Control (PMF2023)</em>, 2024.</li>
+  
+  <li><code class="language-plaintext highlighter-rouge">EI2 2023</code> <a href="https://doi.org/10.1109/EI260384.2023.10443906">Unified Model of Substation for Dispatching and Centralized Control Applications</a>, P Qi, Z Yi, L Zhiying, X Li, <strong>Z Yukun</strong>. <em>2023 IEEE 7th Conference on Energy Internet and Energy System Integration (EI2)</em>, 2023.</li>
+</ul>
+
+# 📖 Education
+- *2026.09 - 2027.06*, **The University of Hong Kong**, Master of Science in Engineering in Electrical and Electronic Engineering (MSc in EEE)
+- *2022.09 - 2026.06*, **Xi'an Jiaotong-Liverpool University**, Bachelor of Engineering in Electrical and Electronic Engineering (BEng in EEE)
+- *2022.09 - 2026.06*, **University of Liverpool**, Bachelor of Engineering in Electrical and Electronic Engineering (BEng in EEE)
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025* Outstanding Graduate of Xi'an Jiaotong-Liverpool University (XJTLU)
+- *2023 - 2025* Academic Achievement Scholarship (Three Consecutive Years)
