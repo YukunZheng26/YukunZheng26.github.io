@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yukun Zheng, an incoming Master student at The University of Hong Kong. My research interests include smart grid, power system stability, artificial intelligence, and power electronics. 
+I am Yukun Zheng, an incoming Master student at The University of Hong Kong. My research interests include smart grid, electric drives, and machine learning. 
 
 My research outputs have accumulated a total of <a href='https://scholar.google.com/citations?user=ITDjbrAAAAAJ'><strong><span id='total_cit'>several</span></strong></a> Google Scholar citations.
 
