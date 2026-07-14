@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yukun Zheng, an incoming Master student at The University of Hong Kong. My research interests include smart grid, electric drives, and machine learning. 
+Hi there! Welcome to my homepage. 👋
+I am Yukun Zheng, an incoming Master student in Electrical and Electronic Engineering at The University of Hong Kong (HKU). I received my BEng degree from Xi'an Jiaotong-Liverpool University and the University of Liverpool.
+During my undergraduate study, my research primarily focused on motor control, power electronics, and fault diagnosis, where I designed and verified real-time open-switch fault diagnosis methods for inverters and electric drives. Moving forward into my Master's program, I am transitioning my research paradigm towards smart grids, modern power systems, and electricity markets. I am particularly interested in leveraging artificial intelligence and optimization techniques to enhance the stability, economics, and decision-making of future low-carbon energy systems.
 
 My research outputs have accumulated a total of <a href='https://scholar.google.com/citations?user=ITDjbrAAAAAJ'><strong><span id='total_cit'>several</span></strong></a> Google Scholar citations.
 
