@@ -23,7 +23,7 @@ My research outputs have accumulated a total of <a href='https://scholar.google.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SGER 2024</div><img src="images/evaluation_inverter.png" alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SEGRE 2024</div><img src="images/evaluation_inverter.png" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Evaluation of Neural Network-Based Parameter Mismatch Detection and Correction for Grid Inverters with Virtual Vector Model Predictive Control](https://doi.org/10.1007/978-981-97-8730-2_31)
