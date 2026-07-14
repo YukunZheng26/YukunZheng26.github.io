@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yukun Zheng (郑宇坤)"
-  avatar           : "avatar.jpg"
+  avatar           : "images/avatar.jpg"
   bio              : "The University of Hong Kong"
   location         : "Hong Kong SAR, China"
   employer         :
