@@ -26,7 +26,7 @@ My research outputs have accumulated a total of <a href='https://scholar.google.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SEGRE 2024</div><img src="images/evaluation_inverter.png" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Evaluation of Neural Network-Based Parameter Mismatch Detection and Correction for Grid Inverters with Virtual Vector Model Predictive Control](https://doi.org/10.1007/978-981-97-8730-2_31)
+[Evaluation of Neural Network-Based Parameter Mismatch Detection and Correction for Grid Inverters with Virtual Vector Model Predictive Control](https://link.springer.com/chapter/10.1007/978-981-96-1965-8_29)
 
 T. Wang, Y. Zhao, Y. Huang, M. Wu, **Y. Zheng**, AHP Tan, CS Lim
 *International Conference on Smart Electrical Grid and Renewable Energy (SEGRE)*, 2024.
@@ -34,9 +34,9 @@ T. Wang, Y. Zhao, Y. Huang, M. Wu, **Y. Zheng**, AHP Tan, CS Lim
 </div></div>
 
 <ul>
-  <li><code class="language-plaintext highlighter-rouge">PMF 2023</code> <a href="https://doi.org/10.1007/978-981-97-0331-9_38">Charging and Discharging Model of Electric Vehicle Virtual Power Plant Considering Dynamic Electricity Price in New Power System</a>, L Mingyang, <strong>Z Yukun</strong>, W Yanqian, Y Yao, D Yang. <em>Proceedings of the 8th Purple Mountain Forum on Smart Grid Protection and Control (PMF2023)</em>, 2024.</li>
+  <li><code class="language-plaintext highlighter-rouge">PMF 2024</code> <a href="https://link.springer.com/chapter/10.1007/978-981-99-9251-5_30">Charging and Discharging Model of Electric Vehicle Virtual Power Plant Considering Dynamic Electricity Price in New Power System</a>, L Mingyang, <strong>Z Yukun</strong>, W Yanqian, Y Yao, D Yang. <em>Proceedings of the 8th Purple Mountain Forum on Smart Grid Protection and Control (PMF2023)</em>, 2024.</li>
   
-  <li><code class="language-plaintext highlighter-rouge">EI2 2023</code> <a href="https://doi.org/10.1109/EI260384.2023.10443906">Unified Model of Substation for Dispatching and Centralized Control Applications</a>, P Qi, Z Yi, L Zhiying, X Li, <strong>Z Yukun</strong>. <em>2023 IEEE 7th Conference on Energy Internet and Energy System Integration (EI2)</em>, 2023.</li>
+  <li><code class="language-plaintext highlighter-rouge">EI2 2023</code> <a href="https://ieeexplore.ieee.org/abstract/document/10513236">Unified Model of Substation for Dispatching and Centralized Control Applications</a>, P Qi, Z Yi, L Zhiying, X Li, <strong>Z Yukun</strong>. <em>2023 IEEE 7th Conference on Energy Internet and Energy System Integration (EI2)</em>, 2023.</li>
 </ul>
 
 # 📖 Education
