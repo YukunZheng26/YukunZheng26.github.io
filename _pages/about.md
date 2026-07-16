@@ -48,7 +48,7 @@ T. Wang, Y. Zhao, Y. Huang, M. Wu, **Y. Zheng**, AHP Tan, CS Lim
   <li><code class="language-plaintext highlighter-rouge">EI2 2023</code> <a href="https://ieeexplore.ieee.org/abstract/document/10513236">Unified Model of Substation for Dispatching and Centralized Control Applications</a>, P Qi, Z Yi, L Zhiying, X Li, <strong>Z Yukun</strong>. <em>2023 IEEE 7th Conference on Energy Internet and Energy System Integration (EI2)</em>, 2023.</li>
 </ul>
 
-# 📖 Education
+# 📖 Educations
 - *2026.09 - 2027.06*: &nbsp;**The University of Hong Kong**, Master of Science in Engineering in Electrical and Electronic Engineering (MSc in EEE)
 - *2022.09 - 2026.06*: &nbsp;**Xi'an Jiaotong-Liverpool University** & **University of Liverpool**, Bachelor of Engineering with Honours in Electrical and Electronic Engineering (BEng (Hons) in EEE) — *Joint Dual Degree (**First Class**)*
 
