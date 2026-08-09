@@ -50,7 +50,7 @@ T. Wang, Y. Zhao, Y. Huang, M. Wu, **Y. Zheng**, AHP Tan, CS Lim
 
 # 📖 Educations
 - *2026.09 - 2027.06*: &nbsp;**The University of Hong Kong**, Master of Science in Engineering in Electrical and Electronic Engineering (MSc in EEE)
-- *2022.09 - 2026.06*: &nbsp;**Xi'an Jiaotong-Liverpool University** & **University of Liverpool**, Bachelor of Engineering with Honours in Electrical and Electronic Engineering (BEng (Hons) in EEE) — *Joint Dual Degree (**First Class**)*
+- *2022.09 - 2026.06*: &nbsp;**Xi'an Jiaotong-Liverpool University** & **University of Liverpool**, Bachelor of Engineering with Honours in Electrical Engineering (BEng (Hons) in EE) — *Joint Dual Degree (**First Class**)*
 
 # 🎖 Honors and Awards
 - *2026* Outstanding Graduate of Xi'an Jiaotong-Liverpool University (XJTLU)
