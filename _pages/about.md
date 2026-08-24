@@ -21,7 +21,7 @@ redirect_from:
 
 I am Yukun Zheng, an incoming Master student in Electrical and Electronic Engineering at **The University of Hong Kong (HKU)**. I received my BEng degree from **Xi'an Jiaotong-Liverpool University** and the **University of Liverpool**. 
 
-During my undergraduate study, my research primarily focused on motor control, power electronics, and fault diagnosis, where I designed and verified real-time open-switch fault diagnosis methods for electric drives. Moving forward into my Master's program, I am transitioning my research paradigm towards **smart grids, modern power systems, and electricity markets**. I am particularly interested in leveraging artificial intelligence and optimization techniques to enhance the stability, economics, and decision-making of future low-carbon energy systems.
+During my undergraduate study, my research mainly focused on motor control, power electronics, and fault diagnosis, including the design and verification of real-time open-switch fault diagnosis methods for electric drives. With the background in power electronics, I hope to expand my research interests during my Master's program by engaging in emerging topics related to smart grids, modern power systems, and electricity markets. I look forward to exploring new challenges in energy systems and applying artificial intelligence and optimization techniques to support the development of more stable, efficient, and sustainable low-carbon power networks.
 
 My research outputs have accumulated a total of <a href='https://scholar.google.com/citations?user=ITDjbrAAAAAJ'><strong><span id='total_cit'>several</span></strong></a> Google Scholar citations.
 
