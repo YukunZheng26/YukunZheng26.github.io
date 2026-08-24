@@ -42,11 +42,6 @@ T. Wang, Y. Zhao, Y. Huang, M. Wu, **Y. Zheng**, AHP Tan, CS Lim
 
 </div></div>
 
-<ul>
-  <li><code class="language-plaintext highlighter-rouge">PMF 2024</code> <a href="https://link.springer.com/chapter/10.1007/978-981-99-9251-5_30">Charging and Discharging Model of Electric Vehicle Virtual Power Plant Considering Dynamic Electricity Price in New Power System</a>, L Mingyang, <strong>Z Yukun</strong>, W Yanqian, Y Yao, D Yang. <em>Proceedings of the 8th Purple Mountain Forum on Smart Grid Protection and Control (PMF2023)</em>, 2024.</li>
-  
-  <li><code class="language-plaintext highlighter-rouge">EI2 2023</code> <a href="https://ieeexplore.ieee.org/abstract/document/10513236">Unified Model of Substation for Dispatching and Centralized Control Applications</a>, P Qi, Z Yi, L Zhiying, X Li, <strong>Z Yukun</strong>. <em>2023 IEEE 7th Conference on Energy Internet and Energy System Integration (EI2)</em>, 2023.</li>
-</ul>
 
 # 📖 Educations
 - *2026.09 - 2027.06*: &nbsp;**The University of Hong Kong**, Master of Science in Engineering in Electrical and Electronic Engineering (MSc in EEE)
